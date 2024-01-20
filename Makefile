@@ -6,7 +6,7 @@
 #    By: mmaila <mmaila@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/30 21:34:35 by mmaila            #+#    #+#              #
-#    Updated: 2024/01/20 14:54:15 by mmaila           ###   ########.fr        #
+#    Updated: 2024/01/20 18:29:51 by mmaila           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,7 +18,7 @@ SRCS= main.c parse.c sort.c big_sort.c index.c srcs/swap_push/swap_push.c srcs/s
 
 SRCS_BONUS= bonus/main_bonus.c bonus/parse_bonus.c bonus/checker_bonus.c bonus/swp_psh_bonus/swap_push_bonus.c \
 			bonus/swp_psh_bonus/swap_push_1_bonus.c bonus/swp_psh_bonus/swap_push_2_bonus.c \
-			bonus/swp_psh_bonus/swap_push_3_bonus.c bonus/utils/ft_strcmp.c bonus/get_next_line/get_next_line.c \
+			bonus/swp_psh_bonus/swap_push_3_bonus.c bonus/utils/ft_strcmp_bonus.c bonus/get_next_line/get_next_line.c \
 			bonus/get_next_line/get_next_line_utils.c bonus/utils/ft_lstadd_back_bonus.c
 
 UTILS_SRCS= exit.c srcs/utils/ft_atoi.c srcs/utils/ft_isdigit.c srcs/utils/ft_split.c srcs/utils/ft_strlcpy.c srcs/utils/ft_strlen.c \
